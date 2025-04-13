@@ -1,14 +1,17 @@
 <h1 align="center">Hey there 👋, I'm Akash Shahade</h1>
 
 <p align="center">
-  🛠️ Engineer | 🤖 AI + IoT Enthusiast | 🌱 Constant Learner
+  🛠️ Mechanical Engineer | 🤖 AI + IoT Enthusiast | 🌱 Constant Learner
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔧 Building AI-powered apps, IoT devices, and automation tools  
+- 🛠️ Skilled in Mechanical Engineering and Product Design  
+- 🧩 Experienced in designing complex mechanical assemblies  
+- 🤖 Love solving mechanical problems using Machine Learning
+- - 🔧 Building AI-powered apps, IoT devices, and automation tools  
 - 💡 Passionate about bridging hardware and software  
 - 📐 Love working on Medium Voltage Switchgears, Embedded Systems, and CAD  
 - 📍 Based in India, working on global tech challenges
@@ -18,9 +21,9 @@
 ### ⚡ Skills & Tools
 
 ```python
-Languages: Python, C/C++, JavaScript
-Hardware: ESP32, Arduino, Sensors, Relays
-Software: Autodesk Inventor, Fusion 360, EasyEDA
+Languages: Python, MATLAB, C/C++.
+Hardware: ESP32, ESP8266, Arduino, Sensors, Relays
+Software: Autodesk Inventor, EasyEDA
 AI/ML: Streamlit, OpenCV, YOLO, Hugging Face
 Web Dev: HTML, CSS, React, Node.js
 ```
@@ -56,8 +59,8 @@ ML-based predictive maintenance using Random Forest for industrial machines.
 ### 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/akashshahade)
-- 🌍 [Portfolio](https://your-website-link.com) _(optional)_
-- ✉️ akash.shahade@email.com _(optional)_
+- 🌍 [Portfolio](https://your-website-link.com) 
+- ✉️ akash.workmail96@gmail.com
 
 ---
 
