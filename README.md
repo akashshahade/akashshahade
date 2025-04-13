@@ -11,7 +11,7 @@
 - 🛠️ Skilled in Mechanical Engineering and Product Design  
 - 🧩 Experienced in designing complex mechanical assemblies  
 - 🤖 Love solving mechanical problems using Machine Learning
-- - 🔧 Building AI-powered apps, IoT devices, and automation tools  
+- 🔧 Building AI-powered apps, IoT devices, and automation tools  
 - 💡 Passionate about bridging hardware and software  
 - 📐 Love working on Medium Voltage Switchgears, Embedded Systems, and CAD  
 - 📍 Based in India, working on global tech challenges
